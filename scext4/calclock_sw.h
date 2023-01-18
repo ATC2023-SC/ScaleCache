@@ -1,0 +1,6 @@
+#ifndef _CALCLOCK_SWITCH_H
+#define _CALCLOCK_SWITCH_H
+
+#define CALCLOCK_OFF
+
+#endif /* _CALCLOCK_SWITCH_H */
